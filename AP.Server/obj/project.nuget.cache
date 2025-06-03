@@ -1,8 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "lndmb2glDSI=",
+  "dgSpecHash": "2w0eecIgnTY=",
   "success": true,
   "projectFilePath": "D:\\Projects (Visual Studio)\\ArchPlaygound\\AP.Server\\AP.Server.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Maddin\\.nuget\\packages\\arch.lowlevel\\1.1.5\\arch.lowlevel.1.1.5.nupkg.sha512",
+    "C:\\Users\\Maddin\\.nuget\\packages\\arch.system\\1.1.0\\arch.system.1.1.0.nupkg.sha512",
+    "C:\\Users\\Maddin\\.nuget\\packages\\collections.pooled\\2.0.0-preview.27\\collections.pooled.2.0.0-preview.27.nupkg.sha512",
+    "C:\\Users\\Maddin\\.nuget\\packages\\communitytoolkit.highperformance\\8.2.2\\communitytoolkit.highperformance.8.2.2.nupkg.sha512",
+    "C:\\Users\\Maddin\\.nuget\\packages\\microsoft.extensions.objectpool\\7.0.0\\microsoft.extensions.objectpool.7.0.0.nupkg.sha512",
+    "C:\\Users\\Maddin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Maddin\\.nuget\\packages\\zeroallocjobscheduler\\1.1.2\\zeroallocjobscheduler.1.1.2.nupkg.sha512",
+    "C:\\Users\\Maddin\\.nuget\\packages\\arch\\2.0.0\\arch.2.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

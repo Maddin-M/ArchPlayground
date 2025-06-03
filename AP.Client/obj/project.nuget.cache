@@ -1,16 +1,24 @@
 {
   "version": 2,
-  "dgSpecHash": "eaxGjBhLwUQ=",
+  "dgSpecHash": "ownD4QEAQDg=",
   "success": true,
   "projectFilePath": "D:\\Projects (Visual Studio)\\ArchPlaygound\\AP.Client\\AP.Client.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Maddin\\.nuget\\packages\\arch.lowlevel\\1.1.5\\arch.lowlevel.1.1.5.nupkg.sha512",
+    "C:\\Users\\Maddin\\.nuget\\packages\\arch.system\\1.1.0\\arch.system.1.1.0.nupkg.sha512",
+    "C:\\Users\\Maddin\\.nuget\\packages\\collections.pooled\\2.0.0-preview.27\\collections.pooled.2.0.0-preview.27.nupkg.sha512",
+    "C:\\Users\\Maddin\\.nuget\\packages\\communitytoolkit.highperformance\\8.2.2\\communitytoolkit.highperformance.8.2.2.nupkg.sha512",
+    "C:\\Users\\Maddin\\.nuget\\packages\\microsoft.extensions.objectpool\\7.0.0\\microsoft.extensions.objectpool.7.0.0.nupkg.sha512",
     "C:\\Users\\Maddin\\.nuget\\packages\\monogame.content.builder.task\\3.8.4\\monogame.content.builder.task.3.8.4.nupkg.sha512",
     "C:\\Users\\Maddin\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.4\\monogame.framework.desktopgl.3.8.4.nupkg.sha512",
     "C:\\Users\\Maddin\\.nuget\\packages\\monogame.library.openal\\1.23.1.10\\monogame.library.openal.1.23.1.10.nupkg.sha512",
     "C:\\Users\\Maddin\\.nuget\\packages\\monogame.library.sdl\\2.32.2.1\\monogame.library.sdl.2.32.2.1.nupkg.sha512",
     "C:\\Users\\Maddin\\.nuget\\packages\\nvorbis\\0.10.4\\nvorbis.0.10.4.nupkg.sha512",
     "C:\\Users\\Maddin\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
-    "C:\\Users\\Maddin\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+    "C:\\Users\\Maddin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Maddin\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
+    "C:\\Users\\Maddin\\.nuget\\packages\\zeroallocjobscheduler\\1.1.2\\zeroallocjobscheduler.1.1.2.nupkg.sha512",
+    "C:\\Users\\Maddin\\.nuget\\packages\\arch\\2.0.0\\arch.2.0.0.nupkg.sha512"
   ],
   "logs": []
 }

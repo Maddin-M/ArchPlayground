@@ -13,3 +13,16 @@ D:\Projects (Visual Studio)\ArchPlaygound\AP.Server\obj\Debug\net8.0\refint\AP.S
 D:\Projects (Visual Studio)\ArchPlaygound\AP.Server\obj\Debug\net8.0\AP.Server.pdb
 D:\Projects (Visual Studio)\ArchPlaygound\AP.Server\obj\Debug\net8.0\AP.Server.genruntimeconfig.cache
 D:\Projects (Visual Studio)\ArchPlaygound\AP.Server\obj\Debug\net8.0\ref\AP.Server.dll
+D:\Projects (Visual Studio)\ArchPlaygound\AP.Server\bin\Debug\net8.0\Arch.LowLevel.dll
+D:\Projects (Visual Studio)\ArchPlaygound\AP.Server\bin\Debug\net8.0\Collections.Pooled.dll
+D:\Projects (Visual Studio)\ArchPlaygound\AP.Server\bin\Debug\net8.0\CommunityToolkit.HighPerformance.dll
+D:\Projects (Visual Studio)\ArchPlaygound\AP.Server\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\Projects (Visual Studio)\ArchPlaygound\AP.Server\bin\Debug\net8.0\Schedulers.dll
+D:\Projects (Visual Studio)\ArchPlaygound\AP.Server\bin\Debug\net8.0\AP.Core.dll
+D:\Projects (Visual Studio)\ArchPlaygound\AP.Server\bin\Debug\net8.0\Arch.dll
+D:\Projects (Visual Studio)\ArchPlaygound\AP.Server\bin\Debug\net8.0\AP.Core.pdb
+D:\Projects (Visual Studio)\ArchPlaygound\AP.Server\bin\Debug\net8.0\Arch.pdb
+D:\Projects (Visual Studio)\ArchPlaygound\AP.Server\bin\Debug\net8.0\Arch.xml
+D:\Projects (Visual Studio)\ArchPlaygound\AP.Server\obj\Debug\net8.0\AP.Server.csproj.AssemblyReference.cache
+D:\Projects (Visual Studio)\ArchPlaygound\AP.Server\obj\Debug\net8.0\AP.Server.csproj.Up2Date
+D:\Projects (Visual Studio)\ArchPlaygound\AP.Server\bin\Debug\net8.0\Arch.System.dll

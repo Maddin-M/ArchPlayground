@@ -23,6 +23,7 @@
         </EmbeddedResource>
     </ItemGroup>
     <ItemGroup>
+        <PackageReference Include="Arch.System" Version="1.1.0" />
         <PackageReference Include="MonoGame.Framework.DesktopGL" Version="3.8.*"/>
         <PackageReference Include="MonoGame.Content.Builder.Task" Version="3.8.*"/>
     </ItemGroup>
@@ -30,4 +31,11 @@
         <Message Text="Restoring dotnet tools" Importance="High"/>
         <Exec Command="dotnet tool restore"/>
     </Target>
+
+    <ItemGroup>
+        <ProjectReference Include="..\AP.Core\AP.Core.csproj"/>
+        <ProjectReference Include="..\AP.Server\AP.Server.csproj"/>
+        <ProjectReference Include="..\Arch\src\Arch\Arch.csproj"/>
+    </ItemGroup>
+    
 </Project>

@@ -1,0 +1,12 @@
+D:\Projects (Visual Studio)\ArchPlaygound\AP.Core\bin\Debug\net8.0\AP.Core.deps.json
+D:\Projects (Visual Studio)\ArchPlaygound\AP.Core\bin\Debug\net8.0\AP.Core.dll
+D:\Projects (Visual Studio)\ArchPlaygound\AP.Core\bin\Debug\net8.0\AP.Core.pdb
+D:\Projects (Visual Studio)\ArchPlaygound\AP.Core\obj\Debug\net8.0\AP.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects (Visual Studio)\ArchPlaygound\AP.Core\obj\Debug\net8.0\AP.Core.AssemblyInfoInputs.cache
+D:\Projects (Visual Studio)\ArchPlaygound\AP.Core\obj\Debug\net8.0\AP.Core.AssemblyInfo.cs
+D:\Projects (Visual Studio)\ArchPlaygound\AP.Core\obj\Debug\net8.0\AP.Core.csproj.CoreCompileInputs.cache
+D:\Projects (Visual Studio)\ArchPlaygound\AP.Core\obj\Debug\net8.0\AP.Core.sourcelink.json
+D:\Projects (Visual Studio)\ArchPlaygound\AP.Core\obj\Debug\net8.0\AP.Core.dll
+D:\Projects (Visual Studio)\ArchPlaygound\AP.Core\obj\Debug\net8.0\refint\AP.Core.dll
+D:\Projects (Visual Studio)\ArchPlaygound\AP.Core\obj\Debug\net8.0\AP.Core.pdb
+D:\Projects (Visual Studio)\ArchPlaygound\AP.Core\obj\Debug\net8.0\ref\AP.Core.dll

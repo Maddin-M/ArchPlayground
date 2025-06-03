@@ -1,3 +1,16 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿namespace AP.Server;
 
-Console.WriteLine("Hello, World!");
+public static class Program
+{
+    private static void Main()
+    {
+        var server = new Server();
+        server.Start();
+
+        while (true)
+        {
+            server.Update();
+            Thread.Sleep(15);
+        }
+    }
+}

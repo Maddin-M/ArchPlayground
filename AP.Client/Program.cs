@@ -1,2 +1,10 @@
-﻿using var game = new AP.Client.Game1();
-game.Run();
+﻿namespace AP.Client;
+
+public static class Program
+{
+    private static void Main()
+    {
+        var client = new Client();
+        client.Run();
+    }
+}

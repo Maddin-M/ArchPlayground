@@ -7,4 +7,13 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+        <ProjectReference Include="..\AP.Core\AP.Core.csproj"/>
+        <ProjectReference Include="..\Arch\src\Arch\Arch.csproj"/>
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Arch.System" Version="1.1.0" />
+    </ItemGroup>
+
 </Project>
