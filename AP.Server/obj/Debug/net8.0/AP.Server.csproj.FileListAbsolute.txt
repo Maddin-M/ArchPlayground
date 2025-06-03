@@ -1,0 +1,15 @@
+D:\Projects (Visual Studio)\ArchPlaygound\AP.Server\bin\Debug\net8.0\AP.Server.exe
+D:\Projects (Visual Studio)\ArchPlaygound\AP.Server\bin\Debug\net8.0\AP.Server.deps.json
+D:\Projects (Visual Studio)\ArchPlaygound\AP.Server\bin\Debug\net8.0\AP.Server.runtimeconfig.json
+D:\Projects (Visual Studio)\ArchPlaygound\AP.Server\bin\Debug\net8.0\AP.Server.dll
+D:\Projects (Visual Studio)\ArchPlaygound\AP.Server\bin\Debug\net8.0\AP.Server.pdb
+D:\Projects (Visual Studio)\ArchPlaygound\AP.Server\obj\Debug\net8.0\AP.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects (Visual Studio)\ArchPlaygound\AP.Server\obj\Debug\net8.0\AP.Server.AssemblyInfoInputs.cache
+D:\Projects (Visual Studio)\ArchPlaygound\AP.Server\obj\Debug\net8.0\AP.Server.AssemblyInfo.cs
+D:\Projects (Visual Studio)\ArchPlaygound\AP.Server\obj\Debug\net8.0\AP.Server.csproj.CoreCompileInputs.cache
+D:\Projects (Visual Studio)\ArchPlaygound\AP.Server\obj\Debug\net8.0\AP.Server.sourcelink.json
+D:\Projects (Visual Studio)\ArchPlaygound\AP.Server\obj\Debug\net8.0\AP.Server.dll
+D:\Projects (Visual Studio)\ArchPlaygound\AP.Server\obj\Debug\net8.0\refint\AP.Server.dll
+D:\Projects (Visual Studio)\ArchPlaygound\AP.Server\obj\Debug\net8.0\AP.Server.pdb
+D:\Projects (Visual Studio)\ArchPlaygound\AP.Server\obj\Debug\net8.0\AP.Server.genruntimeconfig.cache
+D:\Projects (Visual Studio)\ArchPlaygound\AP.Server\obj\Debug\net8.0\ref\AP.Server.dll
